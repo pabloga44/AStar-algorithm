@@ -9,7 +9,7 @@ In the _src_ folder there are the two main programs of the algorithm. The first 
   
 The produced results are two csv files, one containing the list of ID of the path nodes and another with the longitud and latitud coordinates of the path, that we used to represent the path on a map as in the _finalPath.PNG_ file.  
   
-In the _lib_ folder there is stored the corresponding function libraries of the program, including our own implementation of a binary heap priority queue for the A* algorithm. The headers of these libraries can be found in the _include_ folder.
+In the _lib_ folder there is stored the corresponding function libraries of the program, including our own implementation of a binary heap priority queue for the A* algorithm. The header files of these libraries can be found in the _include_ folder.
 
 The example implementation looks for the shortest path from Lleida to Girona, but it can be easily changed modifying the ID of the starting and final nodes in the _Astar\_heap.c_ program.  
   
