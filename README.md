@@ -1,6 +1,6 @@
 # AStar-algorithm
 
-Here you have an implementation of the A* Star algorithm with a binary heap queue to find the shortest way between two points in a weighted graph.
+Here you have an implementation of the A* Star algorithm, with a binary heap priority queue, that finds the shortest way between two points in a weighted graph.
 This case is implemented to the case of the map of Catalonia containing 3472620 nodes and 201235 ways of the streets and roads of the region, 
 collected by the OpenStreetMap (OSM) project.    
 
